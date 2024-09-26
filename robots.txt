@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bibleba.github.io/sitemap.bibleba.gz
+Sitemap: https://bibleba.github.io/app/sitemap.bibleba.gz
+Sitemap: https://bibleba.github.io/assets/sitemap.bibleba.gz
+Sitemap: https://bibleba.github.io/css/sitemap.bibleba.gz
+Sitemap: https://bibleba.github.io/data/sitemap.bibleba.gz
+Sitemap: https://bibleba.github.io/includes/sitemap.bibleba.gz
+Sitemap: https://bibleba.github.io/item/sitemap.bibleba.gz
+Sitemap: https://bibleba.github.io/src/sitemap.bibleba.gz
